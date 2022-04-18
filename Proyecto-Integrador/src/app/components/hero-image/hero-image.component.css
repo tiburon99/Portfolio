@@ -1,0 +1,48 @@
+.background-image {
+    background-image: url("../../../assets/MENDOZA.jpg"); /* The image used */
+    height: 100vh; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+
+    
+    position: relative;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .background-filter {
+    background-color: rgba(13, 15, 22, 0.7); /* Se utiliza rgbA para opacidad */
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 0;  /* Esto son las capas tridimensionales siendo -1 0 1 etc */
+  }
+
+  .nombre{
+    
+    font-size: 80px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    z-index: 1;
+    margin:0%;
+    padding-bottom: 0.9rem;
+  }
+
+  .subnombre{
+  
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    padding-bottom: 1.5em;
+    z-index: 1;
+  
+  }
+
+  
