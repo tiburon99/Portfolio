@@ -45,4 +45,18 @@
   
   }
 
+  .btn-group{
+    display: flex;
+    gap: 1rem;
+    
+  
+  }
+  
+  .btn{
+    border-radius: 5rem !important;
+    background-color: rgb(84, 84, 220);
+  }
+
+  
+
   
