@@ -1,3 +1,5 @@
 div{
-    background-color: rgb(84, 84, 220);
+    background: rgb(80,93,136);
+    background: linear-gradient(70deg, rgba(80,93,136,1) 50%, rgb(51, 51, 213) 72%);
+    
 }
