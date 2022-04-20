@@ -4,14 +4,15 @@
 
 
 .gradiente{
-    background: rgb(80,93,136);
-    background: linear-gradient(180deg, rgb(242, 243, 244) 1%, rgb(100, 114, 159) 90%);
+    background: rgb(212, 215, 224);
+    background: linear-gradient(180deg, rgb(242, 243, 244) 1%, rgb(152, 162, 192) 90%);
 
 }
 
 .gradiente2{
-    background: rgb(100, 114, 159);
-    background: linear-gradient(0deg,  rgb(100, 114, 159) 10%, rgb(242, 243, 244) 90%,);
+    background: rgb(152, 162, 192);
+    background: linear-gradient(180deg,  rgb(152, 162, 192) 90%, rgb(242, 243, 244) 10%,);
+    
 
 }
 
