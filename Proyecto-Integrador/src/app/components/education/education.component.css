@@ -1,3 +1,7 @@
+.row{
+    gap: 5em;
+}
+
 .separate-top {
     margin-top: 1rem;
 }
@@ -5,12 +9,13 @@
 
 .gradiente{
    
-    background: linear-gradient(180deg, rgb(152, 162, 192) 90%, rgb(242, 243, 244) 1%);
+    background-color: rgb(212, 215, 224);
+    background: linear-gradient(180deg, rgb(195, 200, 215) 50%, rgb(242, 243, 244) 90%);
 
 }
 
 .gradiente2{
-    background: rgb(152, 162, 192);
+    background: rgb(185, 169, 214);
     background: linear-gradient(180deg,  rgb(152, 162, 192) 90%, rgb(242, 243, 244) 10%,);
     
 
@@ -20,5 +25,52 @@
     font-size: 80px;
     font-weight: 600;
     font-family: 'Ubuntu', sans-serif;
-    padding: 1.5em;
+    padding: 0.5em;
+    margin-left: 1.2em;
+}
+
+.dad-image{
+    background-color: rgb(67, 81, 79);
+    margin-left: 5em;
+    width: 30em;
+    
+    box-shadow: 0 0 0 3px #1e1e1e;
+    
+    
+}
+
+.uda-image{
+    background-color: rgb(67, 81, 79);
+    margin-left: 5em;
+    width: 30em;
+
+    box-shadow: 0 0 0 3px #1e1e1e;
+    
+
+    
+}
+
+.egg-image{
+    
+    margin-left: 5em;
+    width: 30em;
+    height: 8em;
+
+    box-shadow: 0 0 0 3px #1e1e1e;
+    
+}
+
+.school-name {
+
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+
+}
+
+.school-description{
+    
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
 }
