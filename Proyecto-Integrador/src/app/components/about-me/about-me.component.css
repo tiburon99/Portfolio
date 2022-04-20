@@ -2,7 +2,9 @@
 
 .perfil-photo{
     margin-top: 5em;
-    margin-left: 3em; 
+    margin-left: 7em; 
+    height: 25em;
+    
     
 }
 
@@ -12,3 +14,25 @@
     font-weight: 600;
     font-family: 'Ubuntu', sans-serif;
 }
+
+.descripcion{
+    margin-top: 1.50em;
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;  
+
+}
+
+.gradiente{
+    background: linear-gradient(180deg, rgba(80,93,136,1) 5%, rgb(248, 248, 248) 95%); 
+    
+}
+
+@media (max-width: 1600px){
+    #texto{
+        text-align: right;
+    }
+    #salute{
+        text-align: center;
+    }
+}
+
