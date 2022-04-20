@@ -1,0 +1,24 @@
+.separate-top {
+    margin-top: 1rem;
+}
+
+
+.gradiente{
+   
+    background: linear-gradient(180deg, rgb(152, 162, 192) 90%, rgb(242, 243, 244) 1%);
+
+}
+
+.gradiente2{
+    background: rgb(152, 162, 192);
+    background: linear-gradient(180deg,  rgb(152, 162, 192) 90%, rgb(242, 243, 244) 10%,);
+    
+
+}
+
+.titulo {
+    font-size: 80px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1.5em;
+}

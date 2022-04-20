@@ -11,7 +11,7 @@
 
 .gradiente2{
     background: rgb(152, 162, 192);
-    background: linear-gradient(180deg,  rgb(152, 162, 192) 90%, rgb(242, 243, 244) 10%,);
+    background: linear-gradient(180deg,  rgb(152, 162, 192) 90%, rgb(242, 243, 244) 90%,);
     
 
 }
