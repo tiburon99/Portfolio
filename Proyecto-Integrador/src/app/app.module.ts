@@ -10,6 +10,7 @@ import { SocialMediaBtnsComponent } from './components/social-media-btns/social-
 import { AboutMeComponent } from './components/about-me/about-me.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 import { EducationComponent } from './components/education/education.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { EducationComponent } from './components/education/education.component';
     SocialMediaBtnsComponent,
     AboutMeComponent,
     ExperienciaComponent,
-    EducationComponent
+    EducationComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
