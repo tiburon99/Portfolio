@@ -55,6 +55,7 @@
   .btn{
     border-radius: 5rem !important;
     background-color: rgb(80,93,136);
+    font-family: 'Ubuntu', sans-serif;
   }
 
   .to-the-top{
