@@ -1,0 +1,52 @@
+.separate-top {
+    margin-top: 8em;
+}
+
+
+.gradiente{
+    background: rgb(80,93,136);
+    background: linear-gradient(180deg, rgb(242, 243, 244) 1%, rgb(100, 114, 159) 90%);
+
+}
+
+.gradiente2{
+    background: rgb(100, 114, 159);
+    background: linear-gradient(0deg,  rgb(100, 114, 159) 10%, rgb(242, 243, 244) 90%,);
+
+}
+
+.titulo {
+    font-size: 80px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1.5em;
+}
+
+
+
+.first-job-logo {
+    background-color: #1c1b1c;
+    border-radius:50%;
+    box-shadow: 0 0 0 3px #1e1e1e;
+    margin-left: 12em;
+    margin-bottom: 5em;
+    top: 30em;
+    height: 15em;
+    width: 25;
+}
+
+.first-job-name {
+
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    margin-top: 1em;
+    margin-bottom: 2em;
+
+}
+
+.first-job-description{
+    
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+}
+

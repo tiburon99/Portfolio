@@ -8,6 +8,7 @@ import { HeroImageComponent } from './components/hero-image/hero-image.component
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
 import { SocialMediaBtnsComponent } from './components/social-media-btns/social-media-btns.component';
 import { AboutMeComponent } from './components/about-me/about-me.component';
+import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { AboutMeComponent } from './components/about-me/about-me.component';
     HeroImageComponent,
     LogoAPComponent,
     SocialMediaBtnsComponent,
-    AboutMeComponent
+    AboutMeComponent,
+    ExperienciaComponent
   ],
   imports: [
     BrowserModule,
