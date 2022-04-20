@@ -1,11 +1,27 @@
 
 
-.perfil-photo{
+.separate-top{
     margin-top: 5em;
+}
+
+
+
+.perfil-photo{
+    margin-top: 1em;
     margin-left: 7em; 
     height: 25em;
+    box-shadow: 0 0 0 3px #302f2f;
+    background-color: #3c3b40;
+    border-radius: 50%;
     
     
+}
+
+.titulo{
+    margin-top: 2em;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
 }
 
 .saludo{
