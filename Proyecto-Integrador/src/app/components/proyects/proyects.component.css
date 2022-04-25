@@ -1,0 +1,46 @@
+.titulo {
+    font-size: 80px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0.5em;
+    margin-left: 1.2em;
+}
+
+.descripcion {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+
+}
+
+.texto{
+    
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.separate-top {
+    margin-top: 5rem;
+}
+
+.gradiente {
+
+    background: linear-gradient(180deg, rgb(201, 201, 219) 50%, rgb(238, 238, 242) 90%);
+
+}
+
+.img-proyecto{
+    
+    border-radius:50%;
+    box-shadow: 0 0 0 3px #1e1e1e;
+    margin-left: 12em;
+    margin-bottom: 5em;
+    
+    height: 15em;
+    width: 25;
+}
+
+.contenedor{
+    width: auto;
+}
