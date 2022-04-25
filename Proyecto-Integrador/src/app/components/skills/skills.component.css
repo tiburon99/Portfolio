@@ -1,0 +1,33 @@
+.separate-top {
+    margin-top: 1rem;
+}
+
+.titulo {
+    font-size: 80px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0.5em;
+    margin-left: 1.2em;
+}
+
+.descripcion {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+
+}
+
+.row {
+    text-align: center;
+
+}
+
+.gradiente {
+
+
+    background-color: rgb(212, 215, 224);
+    background: linear-gradient(180deg, rgb(242, 243, 244) 50%, rgb(201, 201, 219) 90%);
+
+
+}
