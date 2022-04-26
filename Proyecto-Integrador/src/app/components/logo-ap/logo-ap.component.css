@@ -1,3 +1,28 @@
 #logoAP{
-    height: 5em;
+    height: 6em;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.social-img{
+    width: 3em;
+    
+ 
+}
+
+.botones{
+    margin-right: 1em;
+    border-width: medium;
+}
+
+.login-text {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    
+
 }

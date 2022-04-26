@@ -5,6 +5,7 @@
 
 html {
     scroll-behavior: smooth;
-    padding: 0;
+    padding: 0em;
+    margin-right: 0em;
   }
 
