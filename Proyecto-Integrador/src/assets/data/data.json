@@ -1,0 +1,20 @@
+{
+	"hero-image": [{
+            "name": "Franco Tiviroli",
+            "ubicacion": "Mendoza, Argentina",
+            "posicion": "Full Stack Developer Jr."
+	    }],
+
+    "education": [{
+        
+        "educacion1": "Departamento de Aplicación Docente.",
+        "educacion2": "Escuela del Magisterio.",
+        "educacion3": "Facultad de Psicologia, Universidad del Aconcagua.",
+        "educacion4": "EGG Education."
+
+    }]    
+
+}
+
+
+
